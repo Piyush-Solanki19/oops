@@ -58,6 +58,7 @@ int main(){
 	Motercycle mc;
 	mc.setData(150, 2, 100);
 	mc.Display();
+        cout<<"we have made changes piyush bhai"<<endl;
 	
 //	Car cr
 }
